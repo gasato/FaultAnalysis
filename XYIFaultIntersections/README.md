@@ -51,7 +51,7 @@ select  nodeType, count(*) from <nodeTypeLayer> group by nodetype
 ```
 IYX
 
-![Connectivity of Traces](resultConnectivit230912.jpg).
+![Connectivity of Traces](resultConnectivity230912.jpg).
 
 To be done!!
 
