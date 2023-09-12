@@ -38,11 +38,20 @@ Based on Manzocchi (2002)
 
 This code will work if an unique identifier is selected both for fault layer and node layer.
 
+5. Save resulting node type layer (nodeTypeLayer)
+
 ## Expected Map Result 
 
 ![X, Y, I Nodes Detection](result230912.jpg).
 
 ## Connectivity Triangular Diagram
+
+```
+select  nodeType, count(*) from <nodeTypeLayer> group by nodetype
+```
+IYX
+
+![Connectivity of Traces](resultConnectivit230912.jpg).
 
 To be done!!
 
