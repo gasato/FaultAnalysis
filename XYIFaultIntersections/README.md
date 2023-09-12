@@ -30,7 +30,9 @@ Based on Manzocchi (2002)
 	    when count(*) >= 4 THEN 'X'
     end
   as nodeType 
-  from <faultLayer> as a, <nodeLayer> as b where touches(b.geometry, a.geometry) group by b.fid order by b.fid
+  from <faultLayer> as a, <nodeLayer> as b
+	where touches(b.geometry, a.geometry)
+	group by b.fid order by b.fid
 
 ```
 
