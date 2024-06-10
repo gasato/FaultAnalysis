@@ -1,3 +1,9 @@
+# Table of Contents
+1. [XYI Fault Intersections Detection](#XYIFaultIntersectionsDetection)
+2. [Network Topological Parameters](#NetworkTopologicalParameters)
+
+<a id="XYIFaultIntersectionsDetection" />
+
 # XYI Fault Intersections Detection
 
 Based on Manzocchi (2002)
@@ -66,4 +72,9 @@ It is suggested to use Heat Map Tools, until something more analytical tools wil
 Manzocchi, T. 2002. The connectivity of two-dimensional networks of spatially 
 correlated fractures. Water Resources Research, 38 (9), pp 1162.
 
+<a id="NetworkTopologicalParameters" />
 
+# Network Topological Parameters
+![Network Topological Parameters](topologyNetParams.png).
+
+Table taken from: Nyberg, B., Nixon, C.W., Sanderson, D.J. (2018). NetworkGT: A GIS tool for geometric and topological analysis of two-dimensional fracture networks. _Geosphere, 14_(4).
