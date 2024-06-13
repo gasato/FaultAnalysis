@@ -78,3 +78,12 @@ correlated fractures. Water Resources Research, 38 (9), pp 1162.
 ![Network Topological Parameters](topologyNetParams.png).
 
 Table taken from: Nyberg, B., Nixon, C.W., Sanderson, D.J. (2018). NetworkGT: A GIS tool for geometric and topological analysis of two-dimensional fracture networks. _Geosphere, 14_(4).
+
+## References & Links
+Ovaskainen, N (2023). fractopo: A Python package for fracture network analysis. _The Journal of Open Source Software
+The Journal of Open Source Software, 8_(85). DOI: 10.21105/joss.05300.
+https://www.researchgate.net/publication/370769796_fractopo_A_Python_package_for_fracture_network_analysis
+
+Ovaskainen (Master Thesis, 2020)
+https://www.utupub.fi/handle/10024/149215
+
