@@ -84,6 +84,8 @@ Ovaskainen, N (2023). fractopo: A Python package for fracture network analysis. 
 The Journal of Open Source Software, 8_(85). DOI: 10.21105/joss.05300.
 https://www.researchgate.net/publication/370769796_fractopo_A_Python_package_for_fracture_network_analysis
 
+https://github.com/nialov/fractopo
+
 Ovaskainen (Master Thesis, 2020)
 https://www.utupub.fi/handle/10024/149215
 
