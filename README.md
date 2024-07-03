@@ -7,8 +7,14 @@ Explode fault linestring segments and calculate their azimuth as data preparatio
 ## FractureAnalysisDensity.model3
 Calculation of fracture density is defined as the number of fractures per unit of area enumerated in terms of unique points, as fracture centers, using hexagons as a sample window (based partially on Mauldon, 1998; Mauldon and Dershowitz, 2000 )
 
+## FractureAnalysisDensityCircularWindow.model3
+Calculation of fracture density as defined by Mauldon (1998)  defined as the sum of fractures longitud per unit of area using circular windows (based on Mauldon, 1998; Mauldon and Dershowitz, 2000 )
+
 ## FractureAnalysisIntensity.model3
 Calculation of fracture intensity as defined by Mauldon (1998)  defined as the sum of fractures longitud per unit of area using hexagons as a sample window (based partially on Mauldon, 1998; Mauldon and Dershowitz, 2000 )
+
+## FractureAnalysisIntensityCircularWindow.model3
+Calculation of fracture intensity as defined by Mauldon (1998)  defined as the sum of fractures longitud per unit of area using circular windows (based on Mauldon, 1998; Mauldon and Dershowitz, 2000 )
 
 ## FractureConnectivityNodes.model3
 Generate a point layer detecting X Y I fault nodes.
