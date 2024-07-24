@@ -1,6 +1,33 @@
 # FaultAnalysis
 Several QGIS Tools and Algorithms for Fault Analysis
 
+## How To add these scripts to your QGIS installation
+
+There are two ways to add these scritps to your QGIS installtion. 
+One is by locating the QGIS script folder in your disk and put all these scripts there, 
+the other is by loading them using the Tool Box Menu.
+
+### Tool Box Menu Procedure
+1. Open Tool Box   
+   Go to these menues -> See->Panels->Tool Box
+2. When the Tool Box panel is open add your Model Scripts
+3. Go to Model Icon->Add Model to the ToolBox
+   
+  <img src="docs/Model3Button.png" width=400px />
+   
+Models have extension .model3
+   
+5. Select your models and add them to your QGIS installation
+6. Then add your Python scripts
+   
+   <img src="docs/PythonButton.png" width=400px />
+
+Python scripts have .py extension
+   
+8. Go to Python Icon->Add Scripts to your Tool Box
+9. Voila!!
+
+
 ## FaultSegmentAz.model3
 Explode fault linestring segments and calculate their azimuth as data preparation for and orientation analysis and using in a line direction histogram.
 
