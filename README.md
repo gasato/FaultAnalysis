@@ -1,6 +1,9 @@
 # FaultAnalysis
 Several QGIS Tools and Algorithms for Fault Analysis
 
+# WARNING
+Some importat Errors on these scripts were detected!!. For the momment do not use them!!!
+
 ## How To add these scripts to your QGIS installation
 
 There are two ways to add these scritps to your QGIS installtion. 
